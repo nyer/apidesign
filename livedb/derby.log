@@ -1,0 +1,6 @@
+----------------------------------------------------------------
+2015-11-05 08:44:20.929 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.6.1.0 - (938214): instance a816c00e-0150-d6d1-6ca9-000000b25430 
+on database directory classpath:db in READ ONLY mode  with class loader sun.misc.Launcher$AppClassLoader@69b7fe
+
+Database Class Loader started - derby.database.classpath=''
